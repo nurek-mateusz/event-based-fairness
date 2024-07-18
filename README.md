@@ -1,5 +1,6 @@
 # Event based fairness
-This repository contains code and data samples for the CogSNet - Naming Game opinion formation model.
+This repository contains code and data samples for the CoDiNG opinion formation model which is based on CogSNet and Naming Game.
+https://arxiv.org/abs/2406.19204
 
 # Data
 - `data/eventa.csv` – contains the communication history metadata from the NetSense study (`SenderID;ReceiverID;EventTime`)
